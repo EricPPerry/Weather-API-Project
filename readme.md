@@ -1,0 +1,1 @@
+// Basic interaction with the OpenWeather API, with dynamic elements (background image, weather icons, etc) that change based on the location entered - accepts both name and zipcode of location as input. //
